@@ -9,5 +9,5 @@ You will also see any lint errors in the console.
 ## Ressources
 - [create-react-app](https://github.com/facebook/create-react-app)
 - [Corona Virus Sound Pack](https://free-sample-packs.com/covid-19-a-corona-virus-sample-pack/)
-- [semanti-ui](https://react.semantic-ui.com/)
+- [semantic-ui](https://react.semantic-ui.com/)
 - [styled-components](https://styled-components.com/)
