@@ -24,11 +24,11 @@ const Footer = () => {
           </a>
          by {' '}
           <a
-            href='https://twitter.com/sripwoud'
+            href='https://github.com/sripwoud'
             target='_blank'
             rel='noopener noreferrer'
           >
-               @sripwoud
+               sripwoud
           </a>
         </p>
         <p>
