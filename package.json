@@ -1,7 +1,6 @@
 {
-  "homepage": "https://r1oga.github.io/dj-covid",
+  "homepage": "https://sripwoud.github.io/dj-covid",
   "name": "dj-covid",
-  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

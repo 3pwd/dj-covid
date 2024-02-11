@@ -1,5 +1,5 @@
 # FreeCodeCamp Frontend Libraries Certification: "Drum Machine" Project
-## [Live](https://r1oga.github.io/dj-covid/)
+## [Live](https://sripwoud.github.io/dj-covid/)
 ## Development
 ### Getting started: `yarn start`
 Runs the app in the development mode.<br />
