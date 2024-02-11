@@ -24,7 +24,7 @@ const Footer = () => {
           </a>
          by {' '}
           <a
-            href='https://github.com/sripwoud'
+            href='https://sripwoud.xyz'
             target='_blank'
             rel='noopener noreferrer'
           >
